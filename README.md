@@ -1,5 +1,5 @@
 # Simple Value Comparator
-This is one of the task of Pirple Python is Easy online course.
+One of the task of Pirple Python is Easy online course.
 
 The task is to create a function that accepts 3 parameters and checks for equality between any two of them. The function should return True if 2 or more of the parameters are equal, and false is none of them are equal to any of the others.
 
